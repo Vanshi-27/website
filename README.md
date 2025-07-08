@@ -1,2 +1,2 @@
 # website
-static website
+informative website
